@@ -1,9 +1,9 @@
 {
   "main.css": "/static/css/main.f57cb32b.chunk.css",
-  "main.js": "/static/js/main.5e8bb9fe.chunk.js",
-  "main.js.map": "/static/js/main.5e8bb9fe.chunk.js.map",
-  "static/js/1.8e5e6baa.chunk.js": "/static/js/1.8e5e6baa.chunk.js",
-  "static/js/1.8e5e6baa.chunk.js.map": "/static/js/1.8e5e6baa.chunk.js.map",
+  "main.js": "/static/js/main.37154bc9.chunk.js",
+  "main.js.map": "/static/js/main.37154bc9.chunk.js.map",
+  "static/js/1.0d87bd42.chunk.js": "/static/js/1.0d87bd42.chunk.js",
+  "static/js/1.0d87bd42.chunk.js.map": "/static/js/1.0d87bd42.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/css/main.f57cb32b.chunk.css.map": "/static/css/main.f57cb32b.chunk.css.map",
@@ -11,6 +11,6 @@
   "static/media/waveum.png": "/static/media/waveum.11c07349.png",
   "static/media/sopotra.png": "/static/media/sopotra.1ee99508.png",
   "index.html": "/index.html",
-  "precache-manifest.314476959644d9095476c27a5a561700.js": "/precache-manifest.314476959644d9095476c27a5a561700.js",
+  "precache-manifest.bdf8e4546ef8a7141daf341751122936.js": "/precache-manifest.bdf8e4546ef8a7141daf341751122936.js",
   "service-worker.js": "/service-worker.js"
 }
