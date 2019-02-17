@@ -1,16 +1,16 @@
 {
-  "main.css": "/static/css/main.2e1096d3.chunk.css",
-  "main.js": "/static/js/main.01d38801.chunk.js",
-  "main.js.map": "/static/js/main.01d38801.chunk.js.map",
-  "static/js/1.ca4c3967.chunk.js": "/static/js/1.ca4c3967.chunk.js",
-  "static/js/1.ca4c3967.chunk.js.map": "/static/js/1.ca4c3967.chunk.js.map",
+  "main.css": "/static/css/main.d45eb821.chunk.css",
+  "main.js": "/static/js/main.23ff57e5.chunk.js",
+  "main.js.map": "/static/js/main.23ff57e5.chunk.js.map",
+  "static/js/1.518a4dea.chunk.js": "/static/js/1.518a4dea.chunk.js",
+  "static/js/1.518a4dea.chunk.js.map": "/static/js/1.518a4dea.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.2e1096d3.chunk.css.map": "/static/css/main.2e1096d3.chunk.css.map",
+  "static/css/main.d45eb821.chunk.css.map": "/static/css/main.d45eb821.chunk.css.map",
   "static/media/shiperd.png": "/static/media/shiperd.7f731474.png",
   "static/media/waveum.png": "/static/media/waveum.11c07349.png",
   "static/media/sopotra.png": "/static/media/sopotra.1ee99508.png",
   "index.html": "/index.html",
-  "precache-manifest.d69bf7a8dce62c36a501922e9c652fb7.js": "/precache-manifest.d69bf7a8dce62c36a501922e9c652fb7.js",
+  "precache-manifest.07435a052479c4f001b58cc0ec1be574.js": "/precache-manifest.07435a052479c4f001b58cc0ec1be574.js",
   "service-worker.js": "/service-worker.js"
 }
